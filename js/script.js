@@ -17,16 +17,17 @@ let colore_preferito = prompt("colore preferito")
 
 console.log(colore_preferito)
 
-// 4° Concatenazione valori più inserimento valore 21 + prova console
+// 4° Concatenazione valori e valore 21 + prova console
 
-let risultato = `${nome} ${cognome} ${colore_preferito}`
+let risultato = `${nome}${cognome}${colore_preferito}${"21"}`
 
 console.log(risultato)
 
 // 5° Visualizzare a schermo risultato
 
-document.getElementById("password_incerta").innerHTML = risultato + " " + "21"
+document.getElementById("password_incerta").innerHTML = risultato 
 
-console.log(password_incerta)
+
+
 
 
