@@ -1,0 +1,14 @@
+
+
+PROBLEMA: Richiedere in successione: Nome, cognome e colore preferito. Successivamente farli apparire sullo schermo seguiti dal numero 21
+
+
+1 - Dare la possibilità all'utente di inserire il proprio Nome
+2 - Dare la possibilità all'utente di inserire il proprio Cognome
+3 - Dare la possibilità all'utente di inserire il proprio Colore preferito
+4 - Concatenare i valori delle variabili e aggiungergi il numero 21
+5 - Visualizzare a schermo il risultato
+  5a - Ricerco elemento avente specifico ID nel DOM
+  5b - Alla sua proprietà innerHTML
+
+
